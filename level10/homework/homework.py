@@ -1,0 +1,23 @@
+print(12 + 145)
+print(183 + 120)
+print(129 - 112)
+print(221 - 101)
+print(112 * 12)
+print(1097 * 121)
+print(165 / 15)
+print(12 + 182)
+print(197 - 123)
+print(190 - 90)
+
+
+
+print(19 > 12)
+print(12 > 1)
+print(74 < 120)
+print(239 > 111)
+print(908 < 198)
+print(976 > 87)
+print(82 < 23)
+print(43 < 21)
+print(123 < 1292)
+print(1293 < 283)
