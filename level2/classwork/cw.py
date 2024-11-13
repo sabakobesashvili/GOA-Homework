@@ -1,2 +1,0 @@
-name = "saba"
-lastname = "kobesashvili"
