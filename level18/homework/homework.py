@@ -25,8 +25,8 @@ while mystery_number != user_guess:
 
 if user_guess == mystery_number:
     print("you guess the number")
-elif user_guess != mystery_number:
-    print("try again")
+else: user_guess != mystery_number
+print("try again")
 
    
    
