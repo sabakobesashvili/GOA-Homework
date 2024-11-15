@@ -13,14 +13,14 @@
 #     print("you can vote")
 
 
-password =int("1122")
-user_password = int(input("enter password"))
+# password =int("1122")
+# user_password = int(input("enter password"))
 
 
-if user_password == password:
-    print("access granted")
-else:
-    print("access  denied")
+# if user_password == password:
+#     print("access granted")
+# else:
+#     print("access  denied")
 
     
 
