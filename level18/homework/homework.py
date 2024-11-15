@@ -16,17 +16,11 @@
 #     print(i)
 
 mystery_number = 23
-
 user_guess = int(input("pick a number 1 - 50"))
-
 while mystery_number != user_guess:
-
    (input("pick a number 1 - 50"))
-
 if user_guess == mystery_number:
     print("you guess the number")
-else: user_guess != mystery_number
-print("try again")
 
    
    
