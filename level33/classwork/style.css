@@ -1,0 +1,22 @@
+h1{
+    color: red;
+    height: 80px;
+    text-align: center;
+}
+
+h2{
+    color: yellow ;
+    height: 70px;
+    text-align: center;
+}
+
+p{
+    height: 30px;
+    text-align: center;
+}
+
+
+button{
+    background-color: red;
+    border: solid green;
+}
