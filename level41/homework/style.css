@@ -1,0 +1,19 @@
+button:hover {
+    border: 2px solid #000;
+    padding: 2px;
+  }
+  
+  #div1 {
+    padding: 10px, 20px, 30px, 40px;
+  }
+  
+  #div2 {
+    margin: 20px;
+    border: solid;
+  }
+  
+  #div3 {
+    padding: 20px;
+      border: solid;
+  }
+  
